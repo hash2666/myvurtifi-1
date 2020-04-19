@@ -3,7 +3,7 @@ var mySwiper = new Swiper ('.swiper-container', {
   // direction: 'horizontal',
   // loop: true,
   effect: 'coverflow',
-  slidesPerView: 2.5,
+  slidesPerView: 2,
   speed:800,
 
   // If we need pagination

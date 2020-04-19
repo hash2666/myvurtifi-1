@@ -8,14 +8,16 @@ body {
 }
 
 h1 {
-  font-size: 8rem;
-  color: rgba(255, 241, 41, 0.788);
+  font-size: 12rem;
+  color: black;
   -webkit-transition: 1s ease;
   transition: 1s ease;
+  text-align: center;
+  padding-top: 20px;
 }
 
 .swiper-container {
-  margin-top: 140px;
+  margin-top: 200px;
   max-width: 100%;
   z-index: 1;
 }
@@ -57,7 +59,7 @@ h1 {
     transition: 1s ease;
   }
   .swiper-container {
-    margin-top: 140px;
+    margin-top: 180px;
     width: 100%;
     height: auto;
   }
@@ -71,7 +73,7 @@ h1 {
     transition: 1s ease;
   }
   .swiper-container {
-    margin-top: 140px;
+    margin-top: 180px;
     width: 100%;
     height: auto;
   }
